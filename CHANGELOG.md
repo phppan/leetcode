@@ -53,3 +53,20 @@
 
 穷举或者从外往内取最大值
 
+#12 Integer to Roman
+
+简单题
+
+其实开始看题的时候我也是蒙圈的，连个示例都没有。。
+
+#13 Roman to Integer
+
+接12题的简单题
+
+#14 Longest Common Prefix
+
+简单题
+
+
+
+
